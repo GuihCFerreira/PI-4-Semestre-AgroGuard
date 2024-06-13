@@ -15,14 +15,14 @@
 
 
 ### 🔗 Links:
-<a href="https://github.com/LucasTKP/2co">Front-End</a></br>
+<a href="https://github.com/CaykMagnani/FrontEndTermomiter">Front-End</a></br>
 <a href="https://github.com/GuihCFerreira/PI--BackEnd"> Back-End</a></br>
 <a href="https://github.com/GuihCFerreira/PI-IOT"> Projeto IOT</a></br>
 <a href="https://github.com/GuihCFerreira/PI-Mobile"> Mobile</a></br>
 <a href="https://github.com/GuihCFerreira/PI---BackEnd---Documentation"> Documentação API</a></br>
 <a href="https://github.com/LucasTKP/dashboard-pi-quarto-semestre"> Dashboard</a></br>
 <a href="https://www.figma.com/design/YRerY9lZ9E2nNd5aTeddyp/Pi-4-Semestre?node-id=0-1&t=ORpki0PWvVe2MfCy-0">Figma</a></br>
-<a href="https://youtu.be/zkxGZEQU-gM">Vídeo - Youtube</a></br>
+<a href="https://youtu.be/I_n6J6Fzbws?si=SkQnifGKwNfZfKv2">Vídeo - Youtube</a></br>
 
 
 
